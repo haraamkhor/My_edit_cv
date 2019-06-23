@@ -6,8 +6,8 @@ body
 
 .navbar {
     overflow: hidden;
-    background-color: #333;
-    position: static;
+    background-color: teal;
+    position: fixed;
     top: 0;
     width: 100%;
   }
@@ -23,7 +23,7 @@ body
   }
   
   .navbar a:hover {
-    background: #ddd;
+    background: teal;
     color: black;
   }
   
@@ -40,22 +40,11 @@ body
     width: 100%; 
     height: 26px; 
     color: black;
-    background-color: gray;
+    background-color: tan;
     text-decoration: none;
     font-size: 17px;
     display: block;
 } 
-.sam
-{
-    position: absolute; 
-    TOP: 7px; 
-    LEFT:0px; 
-    width: 100%; 
-    height: 26px; 
-    color: white;
-    font-size: 24px;
-}
-
 
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
