@@ -45,7 +45,34 @@ body
     font-size: 17px;
     display: block;
 } 
-
+#section1 {
+    height: 600px;
+    background-color: lightslategrey;
+  }
+  
+  #section2 {
+    height: 600px;
+    background-color: thistle;
+  }
+  #section3 {
+    height: 600px;
+    background-color: lightslategrey;
+  }
+  
+  #section4 {
+    height: 600px;
+    background-color: thistle;
+  }
+  #section5 {
+    height: 600px;
+    background-color: lightslategrey;
+  }
+  
+  #section6 {
+    height: 600px;
+    background-color: thistle;
+  }
+  
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
