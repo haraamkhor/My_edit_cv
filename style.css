@@ -46,32 +46,59 @@ body
     display: block;
 } 
 #section1 {
-    height: 700px;
-    background-color: lightslategrey;
+    height: 600px;
+    background-color: #77a4be;
   }
   
   #section2 {
-    height: 700px;
+    height: 600px;
     background-color: thistle;
   }
   #section3 {
-    height: 700px;
+    height: 600px;
     background-color: lightslategrey;
   }
   
   #section4 {
-    height: 700px;
-    background-color: thistle;
+    height: 600px;
+    background-color: rosybrown;
   }
   #section5 {
-    height: 700px;
-    background-color: lightslategrey;
+    height: 600px;
+    background-color: thistle;
   }
   
   #section6 {
-    height: 700px;
-    background-color: thistle;
+    height: 600px;
+    background-color: #eee8aa;
   }
+
+.name {
+ /* padding-left: 200px; */
+position:absolute; 
+TOP:190px; 
+LEFT:400px; 
+width:200px; 
+height:200px; 
+text-decoration: none;
+font-size: 20px;
+font-style: oblique;
+color:rgb(95, 24, 24);
+display: block;
+}
+
+.yoyo {
+ /* padding-left: 200px; */
+ position:absolute; 
+ TOP:300px; 
+ LEFT:400px; 
+ width:200px; 
+ height:200px; 
+text-decoration: none;
+font-size: 12px;
+color:#111111;
+display: block;
+}
   
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
