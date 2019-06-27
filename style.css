@@ -57,30 +57,30 @@ body
     display: block;
 } 
 #section1 {
-    height: 600px;
+    height: 700px;
     background-color: #77a4be;
   }
   
   #section2 {
-    height: 600px;
+    height: 700px;
     background-color: thistle;
   }
   #section3 {
-    height: 600px;
+    height: 700px;
     background-color: lightslategrey;
   }
   
   #section4 {
-    height: 600px;
+    height: 700px;
     background-color: rosybrown;
   }
   #section5 {
-    height: 600px;
+    height: 700px;
     background-color: thistle;
   }
   
   #section6 {
-    height: 600px;
+    height: 700px;
     background-color: #eee8aa;
   }
 
